@@ -1,10 +1,11 @@
 ## Rustic vibe 🎵
-:palm_tree: 🧑‍🌾  
 
+:palm_tree: 🧑‍🌾
 
 ## Compile
-`rustc rustic/src/main.rs`  
 
-or  
+`rustc src/main.rs`
 
-`cargo build` & `cargo run`  
+or
+
+`cargo build` & `cargo run`
